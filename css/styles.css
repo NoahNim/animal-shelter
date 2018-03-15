@@ -1,3 +1,23 @@
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  .column {
+    float: none !important;
+    width: auto !important;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+
+  body {
+    background-color: red;
+  }
+
+  .column {
+    padding: 20px;
+    float: none !important;
+    width: auto !important;
+  }
+}
+
 body {
   background-color: #E2DDD5;
 }
