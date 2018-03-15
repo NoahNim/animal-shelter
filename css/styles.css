@@ -1,0 +1,23 @@
+body {
+  background-color: #E2DDD5;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+.animals {
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+}
+
+.animals p, img {
+  margin-left: 10%
+}
+
+#one {
+  background-color: #705B59;
+  color: #ffffff;
+}
